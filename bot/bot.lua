@@ -893,4 +893,4 @@ end
 -- http://hiword.ir
 -- @hiword
 -- @hiword
--- @permag
+-- @hiword
