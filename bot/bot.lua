@@ -94,15 +94,15 @@ function create_config( )
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》permag.ir v3
+    info_text = [[》hiword.ir v3
 🔰Our channel :
-》@permag_bots《
+》@hiword《
 🔰Our channel2 :
-》@permag_ir《
+》@hiword《
 🔰Our channel3 :
-》@permag《
+》@hiword《
 🔰Our website :
-》http://permag.ir
+》http://hiword.ir
 ]],
   }
   serialize_to_file(config, './data/config.lua')
