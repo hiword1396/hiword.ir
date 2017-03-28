@@ -890,7 +890,7 @@ elseif msg.content_.ID == "MessageGame" then
   end
 
 end
--- http://permag.ir
--- @permag_ir
--- @permag_bots
+-- http://hiword.ir
+-- @hiword
+-- @hiword
 -- @permag
